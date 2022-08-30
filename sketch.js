@@ -6,7 +6,7 @@ let g;
 let b;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(600, 600);
   x = width / 200;
   y = height / 1;
   //WO zeichnet es
